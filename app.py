@@ -57,7 +57,7 @@ def detect():
             
             print(f"Detected class: {dclass}, Confidence: {dconf}")
 
-            if dconf > 0.75:
+            if dconf > 0.70:
                 if dclass == 0: 
                     print("Detected: Awake")
                 elif dclass == 1:
@@ -66,7 +66,7 @@ def detect():
                     counter += 1
 
                     # Check if counter is a multiple of 5 and greater than the last played counter
-                    if counter // 5 > last_played_counter // 5:
+                    if counter // 2 > last_played_counter // 2:
                         # Play the police siren sound
                         siren_sound.play()
                         last_played_counter = counter
