@@ -13,7 +13,7 @@ The Driver Drowsiness Detector is an application designed to enhance road safety
 ### Installation and Setup:
 1. **Clone the repository**:
 
-```git clone https://github.com/MisfarJalal/Driver_Drowsiness_Detectorv01-04/blob/main/README.md```
+```git clone https://github.com/MisfarJalal/Driver_Drowsiness_Detectorv01-04```
 
 
 2. **Install the required packages**:
