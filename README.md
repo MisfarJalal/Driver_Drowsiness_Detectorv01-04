@@ -1,5 +1,5 @@
 # Driver Drowsiness Detector
-### Video Demo:  <URL HERE>
+### Video Demo:  https://www.youtube.com/channel/UClCgj3PHsNcHNcBi4gR9sDg
 
 ### Description:
 The Driver Drowsiness Detector is an application designed to enhance road safety by detecting driver drowsiness in real-time. This project utilizes a combination of computer vision techniques and machine learning models to analyze video streams and identify signs of driver fatigue. Upon detection of drowsiness, an alert is triggered to wake the driver, thus preventing potential accidents.
@@ -13,7 +13,7 @@ The Driver Drowsiness Detector is an application designed to enhance road safety
 ### Installation and Setup:
 1. **Clone the repository**:
 
-```git clone https://github.com/misfar-29/Drowsiness_Detection_v01_YOLOv8```
+```git clone https://github.com/MisfarJalal/Driver_Drowsiness_Detectorv01-04/blob/main/README.md```
 
 
 2. **Install the required packages**:
