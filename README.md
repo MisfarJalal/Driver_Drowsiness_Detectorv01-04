@@ -1,5 +1,5 @@
 # Driver Drowsiness Detector
-### Video Demo:  https://www.youtube.com/channel/UClCgj3PHsNcHNcBi4gR9sDg
+### Video Demo:  https://youtu.be/ApNogKURBnI
 
 ### Description:
 The Driver Drowsiness Detector is an application designed to enhance road safety by detecting driver drowsiness in real-time. This project utilizes a combination of computer vision techniques and machine learning models to analyze video streams and identify signs of driver fatigue. Upon detection of drowsiness, an alert is triggered to wake the driver, thus preventing potential accidents.
